@@ -183,3 +183,10 @@ Customer segmentation is a fundamental data science problem. Using K-Means clust
 The project is lightweight, beginner-friendly, and practical. It demonstrates how machine learning can solve real business problems using simple logic and visualization.
 
 This is a great starting point for anyone beginning their journey in Machine Learning and Data Science.
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/8b3dff72-35b6-443a-8418-d59d85e92738" />
+
+
+
+
+
+
